@@ -1,0 +1,6 @@
+[2024-11-12 20:02:19,651] INFO Creating topic water_data_stream with configuration {} and initial partition assignment HashMap(0 -> ArrayBuffer(0)) (kafka.zk.AdminZkClient)
+[2024-11-12 20:02:19,697] INFO [ReplicaFetcherManager on broker 0] Removed fetcher for partitions Set(water_data_stream-0) (kafka.server.ReplicaFetcherManager)
+[2024-11-12 20:02:19,708] INFO [LogLoader partition=water_data_stream-0, dir=/Users/monkeydziyech/Desktop/Projet-data-Integration/logs/kafka_logs] Loading producer state till offset 0 with message format version 2 (kafka.log.UnifiedLog$)
+[2024-11-12 20:02:19,709] INFO Created log for partition water_data_stream-0 in /Users/monkeydziyech/Desktop/Projet-data-Integration/logs/kafka_logs/water_data_stream-0 with properties {} (kafka.log.LogManager)
+[2024-11-12 20:02:19,710] INFO [Partition water_data_stream-0 broker=0] No checkpointed highwatermark is found for partition water_data_stream-0 (kafka.cluster.Partition)
+[2024-11-12 20:02:19,712] INFO [Partition water_data_stream-0 broker=0] Log loaded for partition water_data_stream-0 with initial high watermark 0 (kafka.cluster.Partition)

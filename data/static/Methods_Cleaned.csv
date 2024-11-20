@@ -1,0 +1,377 @@
+﻿PROGRAM_ID;PARAMETER;START_YEAR;END_YEAR;METHOD;METHOD_DESCRIPTION
+LTM_ALTM;PH_FLD;1979;2009;APHA 1985;Glass body Ross combination electrode. APHA. 1981, 1985. Standard Methods for the Examination of Water and Wastewater, 15th and 16th eds (respectively). American Public Health Association, American Water Works Association, Water Pollution Control Federation, Washington, D.C.
+LTM_ALTM;COND;1979;2009;APHA 1985;YSI model 32 meter. APHA. 1981, 1985. Standard Methods for the Examination of Water and Wastewater, 15th and 16th eds (respectively). American Public Health Association, American Water Works Association, Water Pollution Control Federation, Washington, D.C.
+LTM_ALTM;PH_LAB;1979;2009;APHA 1985, Hillman et al 1986;Glass body Ross combination electrode, 300ppm CO2. APHA. 1981, 1985. Standard Methods for the Examination of Water and Wastewater, 15th and 16th eds (respectively). American Public Health Association, American Water Works Association, Water Pollution Control Federation, Washington, D.C. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ALTM;AL_MON;1979;2009;Barnes 1976;AAS. Barnes, R.B. 1976. The determination of specific forms of aluminum in natural water. Chemical Geology 15:177-191.
+LTM_ALTM;DOC;1979;2009;Dohrman 1984;Dohrman direct injection. Automated Laboratory Total Organic Carbon Analyzer. Xertex Corporation. Santa Clara, CA.
+LTM_ALTM;DIC;1979;2009;Dohrman 1984;CO2 detection by infrared spectophotometry.  Automated Laboratory Total Organic Carbon Analyzer. Xertex Corporation. Santa Clara, CA.
+LTM_ALTM;AL_ORG;1979;2009;Driscoll 1984;Fractionation by ion exchange column. Driscoll, C.T. 1984. A procedure for the fractionation of aqueous aluminum in dilute acidic waters. Internat. J. Enivron. Analyt. Chem. 16:267-284.
+LTM_ALTM;COLOR_TRU;1979;2009;EPA 1983;Colorimetric platinum on unfiltered sample. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ALTM;NH4;1979;2009;EPA 1983;Phenate colorimetry. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ALTM;SIO2;1979;2009;EPA 1983;Heteropoly blue complex colorimetry. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ALTM;ANC;1979;2009;Gran 1952;Gran plot analysis. Gran, G. 1952 Determination of the equivalence point in potentiometric titrations. Part 2. Analyst 77:661-671.
+LTM_ALTM;F;1979;2009;Orion 1976;Potentiometrically with ion selective electrode after TISAB addition. Orion. 1976. Instruction Manual Fluoride Electrodes. Orion Research, Inc. Cambridge, MA.
+LTM_ALTM;Inconnu;1979;2009;Slavin 1968;AAS. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_ALTM;MG;1979;2009;Slavin 1968;AAS with lanthanum addition. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_ALTM;K;1979;2009;Slavin 1968;AAS. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_ALTM;CA;1979;2009;Slavin 1968;AAS with lanthanum addition. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_ALTM;CL;1979;2009;Small et al 1975;Dionex ion chromograph. Small, H., T.S. Stevens, and W.C. Bauman. 1975. Novel ion exchange chromotagraphic method using conductimetric detection. Analyt. Chem. 47:1801-1809.
+LTM_ALTM;NO3;1979;2009;Small et al 1975;Dionex ion chromograph. Small, H., T.S. Stevens, and W.C. Bauman. 1975. Novel ion exchange chromotagraphic method using conductimetric detection. Analyt. Chem. 47:1801-1809.
+LTM_ALTM;SO4;1979;2009;Small et al 1975;Dionex ion chromograph. Small, H., T.S. Stevens, and W.C. Bauman. 1975. Novel ion exchange chromotagraphic method using conductimetric detection. Analyt. Chem. 47:1801-1809.
+LTM_ALTM;AL_TD;1979;2009;Unknown;Unknown
+LTM_ALTM;CHL_A;1979;2009;Unknown;Unknown
+LTM_ALTM;ORGION;1979;2009;Unknown;Unknown
+LTM_ALTM;PH_EQ;1979;2009;Unknown;Unknown
+LTM_ALTM;P_TL;1979;2009;Unknown;Unknown
+LTM_ALTM;WTEMP;1979;2009;Unknown;Unknown
+LTM_ALTM;AL_IM;1979;2009;Unknown;Unknown
+LTM_CAT;PH_LAB;1979;1991;APHA 1985;"Beckman Model 071 meter; Ross combination expoxy body electrode. APHA. 1981, 1985. Standard Methods for the Examination of Water and Wastewater, 15th and 16th eds (respectively). American Public Health Association, American Water Works Association, Water Pollution Control Federation, Washington, D.C."
+LTM_CAT;COND;1979;1991;APHA 1985;Altex (Beckman) meter and prove using USGS standards. APHA. 1981, 1985. Standard Methods for the Examination of Water and Wastewater, 15th and 16th eds (respectively). American Public Health Association, American Water Works Association, Water Pollution Control Federation, Washington, D.C.
+LTM_CAT;PH_FLD;1979;1991;APHA 1985;Glass body Ross combination electrode. APHA. 1981, 1985. Standard Methods for the Examination of Water and Wastewater, 15th and 16th eds (respectively). American Public Health Association, American Water Works Association, Water Pollution Control Federation, Washington, D.C.
+LTM_CAT;DOC;1979;1991;Dohrman 1984;Dohrman direct injection. Automated Laboratory Total Organic Carbon Analyzer. Xertex Corporation. Santa Clara, CA.
+LTM_CAT;AL_TL;1979;1991;Driscoll 1984;AAS. Driscoll, C.T. 1984. A procedure for the fractionation of aqueous aluminum in dilute acidic waters. Internat. J. Enivron. Analyt. Chem. 16:267-284.
+LTM_CAT;SIO2;1979;1991;EPA 1979;Colorimetric, silico-molybdate, spectrophotometer. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979.
+LTM_CAT;ANC;1979;1991;Gran 1952;Radiometer ABU93 autotitrator with SAC8O sample changer. Gran, G. 1952 Determination of the equivalence point in potentiometric titrations. Part 2. Analyst 77:661-671.
+LTM_CAT;MG;1979;1991;Slavin 1968;AAS. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_CAT;Inconnu;1979;1991;Slavin 1968;AAS. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_CAT;CA;1979;1991;Slavin 1968;AAS. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_CAT;K;1979;1991;Slavin 1968;AAS. Slavin, W. 1968. Atomic Absorption Spectroscopy. Wiley Interscience. New York.
+LTM_CAT;SO4;1979;1991;Small et al 1975;Dionex 2000 with autosampler. Small, H., T.S. Stevens, and W.C. Bauman. 1975. Novel ion exchange chromotagraphic method using conductimetric detection. Analyt. Chem. 47:1801-1809.
+LTM_CAT;CL;1979;1991;Small et al 1975;Dionex 2000 with autosampler. Small, H., T.S. Stevens, and W.C. Bauman. 1975. Novel ion exchange chromotagraphic method using conductimetric detection. Analyt. Chem. 47:1801-1809.
+LTM_CAT;NO3;1979;1991;Small et al 1975;Dionex 2000 with autosampler. Small, H., T.S. Stevens, and W.C. Bauman. 1975. Novel ion exchange chromotagraphic method using conductimetric detection. Analyt. Chem. 47:1801-1809.
+LTM_CAT;AL_MON;1979;1991;Unknown;Unknown
+LTM_CAT;AL_ORG;1979;1991;Unknown;Unknown
+LTM_CAT;DIC;1979;1991;Unknown;Unknown
+LTM_CAT;F;1979;1991;Unknown;Unknown
+LTM_CAT;NH4;1979;1991;Unknown;Unknown
+LTM_CAT;ORGION;1979;1991;Unknown;Unknown
+LTM_CAT;WTEMP;1979;1991;Unknown;Unknown
+LTM_ME;ANC;1979;2004;EPA 1983;Gran plot titrations. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;CA;1979;2004;EPA 1983;AAS with N20-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COLOR_TRU;1979;2004;EPA 1983;Bausch & Lomb Spectronics 70. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COND;1979;2004;EPA 1983;YSI model 35 meter. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;K;1979;2004;EPA 1983;AAS with air-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;MG;1979;2004;EPA 1983;AAS with N20-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;Inconnu;1979;2004;EPA 1983;AAS with air-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;PH_LAB;1979;2004;Hillman et al 1986;Closed-cell pH, measured in lab. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas.
+LTM_ME;PH_EQ;1979;2004;Hillman et al 1986;Aeration with 300 ppm CO2 air. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas.
+LTM_ME;NO3;1979;2004;Hillman et al 1986;Dionex 2120i. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas.
+LTM_ME;CL;1979;2004;Hillman et al 1986;Dionex 2120i. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas.
+LTM_ME;AL_TD;1979;2004;Hillman et al 1986;Perkin-Elmer 703 AAS. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas.
+LTM_ME;SO4;1979;2004;Hillman et al 1986;Dionex 2120i. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas.
+LTM_ME;SIO2;1979;2004;Hillman et al 1986, EPA 1983;Technicron TRAACS 800. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;DOC;1979;2004;OI Standard Methods;OI Corporation. 1984. OI Model 700 total organic carbon analyzer operating procedures manual. PO Box 2980, College Station, TX 77841.
+LTM_ME;TURB;1979;2004;Unknown;Unknown
+LTM_ME;WTEMP;1979;2004;Unknown;Unknown
+LTM_ME;AL_ORG;1979;2004;Unknown;Unknown
+LTM_ME;COLOR_APP;1979;2004;Unknown;Unknown
+LTM_ME;DIC;1979;2004;Unknown;Unknown
+LTM_ME;N_TD;1979;2004;Unknown;Unknown
+LTM_ME;PH_STVL;1979;2004;Unknown;Unknown
+LTM_ME;P_TL;1979;2004;Unknown;Unknown
+LTM_VT;COLOR_TRU;1979;1991;Black and Christman 1963;Filtered through 0.45 um filter and measured at 420 nm on a spectrophotometer. Black, A.P., and R.F. Christman. 1963. Characteristics of colored surface waters. Jour. A.W.W.A. 55:753-770.
+LTM_VT;Inconnu;1979;1991;EPA 1979, EPA 1983;"Perkin-Elmer 3030B; acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_VT;K;1979;1991;EPA 1979, EPA 1983;"Perkin-Elmer 3030B; acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_VT;CA;1979;1991;EPA 1979, EPA 1983;Unknown
+LTM_VT;MG;1979;1991;EPA 1979, EPA 1983;"Perkin-Elmer 3030B; acetylene flame with lanthanum addition. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_VT;AL_TD;1979;1991;EPA 1983;Perkin-Elmer 3030B and HGA 600. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_VT;COLOR_APP;1979;1991;EPA 1983;Unfiltered and measured on a Taylor color compensator. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_VT;COND;1979;1991;EPA 1983;YSI model 32. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_VT;PH_EQ;1979;1991;EPA 1983;Cole Palmer DigipHase meter, Cole Palmer KCl combination electrode with calomel reference. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_VT;PH_FLD;1979;1991;EPA 1983;Beckman 21 meter with temperature compensation. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_VT;PH_STVL;1979;1991;EPA 1983;"Cole Palmer DigipHase meter, Cole Palmer KCl combination electrode with calomel reference; air-equillibrated with 300 ppm CO2. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_VT;CL;1979;1991;O'Dell 1984;Dionex Ion Chromatograph 2000 with integrator. O'Dell, J.W., J.D. Pfaff, M.E. Gales, and G.D. McKee. 1984 Technical additions to the Methods for the Chemical Analysis of Water and Wastes, Method 300.0, The Determination of Inorganic Anions in Water by Ion Chromatography. EPA-600/4-85-017. U.S. Environmental Protection Agency, Cincinnati, Ohio.
+LTM_VT;NO3;1979;1991;O'Dell 1984;Dionex Ion Chromatograph 2000 with integrator. O'Dell, J.W., J.D. Pfaff, M.E. Gales, and G.D. McKee. 1984 Technical additions to the Methods for the Chemical Analysis of Water and Wastes, Method 300.0, The Determination of Inorganic Anions in Water by Ion Chromatography. EPA-600/4-85-017. U.S. Environmental Protection Agency, Cincinnati, Ohio.
+LTM_VT;SO4;1979;1991;O'Dell 1984;Dionex Ion Chromatograph 2000 with integrator. O'Dell, J.W., J.D. Pfaff, M.E. Gales, and G.D. McKee. 1984 Technical additions to the Methods for the Chemical Analysis of Water and Wastes, Method 300.0, The Determination of Inorganic Anions in Water by Ion Chromatography. EPA-600/4-85-017. U.S. Environmental Protection Agency, Cincinnati, Ohio.
+LTM_VT;AL_MON;1979;1991;Unknown;Unknown
+LTM_VT;AL_ORG;1979;1991;Unknown;Unknown
+LTM_VT;AL_TL;1979;1991;Unknown;Unknown
+LTM_VT;ANC;1979;1991;Unknown;Unknown
+LTM_VT;DOC;1979;1991;Unknown;Unknown
+LTM_VT;P_TL;1979;1991;Unknown;Unknown
+LTM_VT;SECCHI;1979;1991;Unknown;Unknown
+LTM_VT;SIO2;1979;1991;Unknown;Unknown
+LTM_VT;WTEMP;1979;1991;Unknown;Unknown
+VTSSS;AL_MON;1979;2014;APHA 3000-A1 E, APHA 1989, EPA 1987;Automated Colorimetric (PCV). USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;AL_ORG;1979;2014;APHA 3000-A1 E, APHA 1989, EPA 1987;Automated Colorimetric (PCV). USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;SIO2;1979;2014;APHA 425C, APHA 1985;APHA 425C, APHA 1985
+VTSSS;COND;1979;2014;EPA 120.6;Eletrolytic, YSI. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;PH_LAB;1979;2014;EPA 150.6;USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;MG;1979;2014;EPA 1987;Atomic Absorption Spectroscopy. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;K;1979;2014;EPA 1987;Atomic Absorption Spectroscopy. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;CA;1979;2014;EPA 1987;Atomic Absorption Spectroscopy. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;Inconnu;1979;2014;EPA 1987;Atomic Absorption Spectroscopy. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;CL;1979;2014;EPA 300.6;Dionex Ion Chromotography. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;NO3;1979;2014;EPA 300.6;Dionex Ion Chromotography. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;SO4;1979;2014;EPA 300.6;Dionex Ion Chromotography. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;ANC;1979;2014;EPA 310.1 (modified);Modified Gran plot analysis. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;DOC;1979;2014;EPA 415.2;UV-persulfate oxidation, detection by IR spectrophotometry. USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;NH4;1979;2014;Lachat 10-107-06-3-D;Lachat 10-107-06-3-D
+VTSSS;WTEMP;1979;2014;Unknown;Unknown
+LTM_CAT;PH_LAB;1992;2008,43083;EPA 1987 sec 20;280ppm CO2, unstirred.
+LTM_CAT;COND;1992;2008,43083;EPA 1987 sec 23;Electrometric.
+LTM_CAT;ANC;1992;2008,43083;EPA 1987 sec 5.0;Automated Gran titration.
+LTM_CAT;SIO2;1992;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_CAT;Inconnu;1992;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_CAT;MG;1992;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_CAT;K;1992;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_CAT;CA;1992;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_CAT;AL_TL;1992;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_CAT;CL;1992;2008,43083;EPA 300.0 rev 2.1;Ion Chromatography. 
+LTM_CAT;NO3;1992;2008,43083;EPA 300.0 rev 2.1;Ion Chromatography. 
+LTM_CAT;SO4;1992;2008,43083;EPA 300.0 rev 2.1;Ion Chromatography. 
+LTM_CAT;NH4;1992;2008,43083;EPA 350.1 rev 2.0;ICP-AES.
+LTM_CAT;DIC;1992;2008,43083;EPA 415.2;UV/Oxidation.
+LTM_CAT;DOC;1992;2008,43083;EPA 415.2;UV/Persulfate Oxidation.
+LTM_CAT;AL_MON;1992;2008,43083;Lachat Instruments 10-113-33-1-A;Colorimetric, PVC.
+LTM_CAT;AL_ORG;1992;2008,43083;Lachat Instruments 10-113-33-1-B;Colorimetric, PVC.
+LTM_CAT;F;1992;2008,43083;Unknown;Unknown
+LTM_CAT;ORGION;1992;2008,43083;Unknown;Unknown
+LTM_CAT;PH_FLD;1992;2008,43083;Unknown;Unknown
+LTM_CAT;WTEMP;1992;2008,43083;Unknown;Unknown
+LTM_VT;SIO2;1992;2014;APHA , 2005 4500-SiO₂F;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;COND;1992;2014;APHA 2510B;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;PH_STVL;1992;2014;APHA 4500-HB;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;WTEMP;1992;2014;APHA, 1998 Section 2550B;APHA. 1998. Standard methods for the examinatino of water and wastewater, 20th edition. American Public Health Association, American Water Works Association, Water Environment Federation, Washington D.C.
+LTM_VT;COLOR_APP;1992;2014;APHA, 2005 2120B;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;DOC;1992;2014;APHA, 2005 5310C;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;COLOR_TRU;1992;2014;Black and Christman, 1963;Black, A.P. and R.F. Christman. 1963. Characteristics of colored surface waters. Jour. AWWA, June 1963. 
+LTM_VT;ANC;1992;2014;Pfeiffer and Festa, 1980 ;Pfeiffer, M. and P.J. Festa. 1980. Acidity status of lakes in the Adirondack Region of New York in relation to fish resource. NY DEC.
+LTM_VT;PH_FLD;1992;2014;USEPA, 1983 Method 150.1;USEPA. 1983. Methods for chemical analysis of water and wastes. EPA-600/4-79-020.
+LTM_VT;SECCHI;1992;2014;USEPA, 1989 Method 11.0;USEPA. 1989. Handbook of methods for acid deposition studies. Field methods for surface water studies. EPA-600/4-89-020.
+LTM_VT;NO3;1992;2014;USEPA, 1993 Method 300.0;USEPA. 1993. Methods for the determination of inorganic substances in envrionmental samples. A/600/R-93/100
+LTM_VT;CL;1992;2014;USEPA, 1993 Method 300.0;USEPA. 1993. Methods for the determination of inorganic substances in envrionmental samples. A/600/R-93/100
+LTM_VT;SO4;1992;2014;USEPA, 1993 Method 300.0;USEPA. 1993. Methods for the determination of inorganic substances in envrionmental samples. A/600/R-93/100
+LTM_VT;AL_MON;1992;2014;"USEPA, 1994 Method 200.15; Rogeberg and Henriksen, 1985; Driscoll, 1984";"USEPA. 1994. Methods for the determination of metals in envrionmental samples. EPA/ 600/R-94/111. Rogeberg, E.J.S., and A. Henriksen.; An automated method for fractionation and determination of aluminum species in fresh-waters. Vatten 1985, 41, pp. 48-53. Driscoll, C.T. A procedure for the fractionization of aqueous aluminum in dilute acidic waters. International Journal of Envrionmental Analytical Chemistry. 1984, 16, pp 267-283."
+LTM_VT;AL_ORG;1992;2014;"USEPA, 1994 Method 200.15; Rogeberg and Henriksen, 1985; Driscoll, 1984";"USEPA. 1994. Methods for the determination of metals in envrionmental samples. EPA/ 600/R-94/111. Rogeberg, E.J.S., and A. Henriksen.; An automated method for fractionation and determination of aluminum species in fresh-waters. Vatten 1985, 41, pp. 48-53. Driscoll, C.T. A procedure for the fractionization of aqueous aluminum in dilute acidic waters. International Journal of Envrionmental Analytical Chemistry. 1984, 16, pp 267-283."
+LTM_VT;MG;1992;2014;USEPA, 2007 Method 6010C;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;K;1992;2014;USEPA, 2007 Method 6010C;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;CA;1992;2014;USEPA, 2007 Method 6010C;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;AL_TL;1992;2014;USEPA, 2007 Method 6010C;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;Inconnu;1992;2014;USEPA, 2007 Method 6010C;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;PH_EQ;1992;2014;USEPA. 1987 Section 5.5.3;USEPA. 1987. Handbook of methods for acid depostion studies. Laboratory analyses for surface waters chemistry. EPA-600/4-87-026.
+LTM_VT;AL_TD;1992;2014;Unknown;Unknown
+LTM_VT;P_TL;1992;2014;Unknown;Unknown
+LTM_ME;COLOR_TRU;2005;2009;EPA 110.2;Spectrophotometer, 457.5 nm. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COND;2005;2009;EPA 120.1, EPA 23.0;Wheatstone bridge. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;AL_TD;2005;2009;EPA 200.9;AAS with graphite furnace. Methods for the Determination of Metals in Environmental Samples, EPA 600/4-91/010, 1991, Supplement 1, EPA 600/R-94/111, 1994.
+LTM_ME;CA;2005;2009;EPA 215.1;AAS with N20-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;SIO2;2005;2009;EPA 22.0, Bran & Luebbe 785-86T;"Autoanalyzer. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987. Bran and Luebbe, 1986.  Ammonium in water and wastewater, method 780-86T; silicates in water and wastewater, method 785-86T.  Technicon Industrial Systems Corp., Elsford, NY."
+LTM_ME;MG;2005;2009;EPA 242.1;AAS with N20-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;Inconnu;2005;2009;EPA 258.1;AAS with air-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;K;2005;2009;EPA 273.1;AAS with air-acetylene flame. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;SO4;2005;2009;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;NO3;2005;2009;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;CL;2005;2009;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;DOC;2005;2009;EPA 415.1;IR C analyzer, persulfate oxidation. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;PH_EQ;2005;2009;Hillman et al 1986, EPA 19.0;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;ANC;2005;2009;Hillman et al 1986, EPA 5.0;Gran Titration. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;PH_LAB;2005;2009;Hillman et al 1986, EPA 5.0;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;AL_ORG;2005;2009;Unknown;Unknown
+LTM_ME;COLOR_APP;2005;2009;Unknown;Unknown
+LTM_ME;DIC;2005;2009;Unknown;Unknown
+LTM_ME;N_TD;2005;2009;Unknown;Unknown
+LTM_ME;PH_STVL;2005;2009;Unknown;Unknown
+LTM_ME;P_TL;2005;2009;Unknown;Unknown
+LTM_ME;TURB;2005;2009;Unknown;Unknown
+LTM_ME;WTEMP;2005;2009;Unknown;Unknown
+LTM_ALTM;COND;2010;2014;EPA 120.1, 2510 B;YSI @ 25C. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;CA;2010;2014;EPA 215.1, 3111 B;"AAS Direct Aspiration. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American
+Water Works Association, and Water Pollution Control Federation, 1992-2005."
+LTM_ALTM;MG;2010;2014;EPA 242.1, 3111 B;AAS Direct Aspiration. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;K;2010;2014;EPA 258.1, 3111 B;AAS Direct Aspiration. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;Inconnu;2010;2014;EPA 273.1, 3111 B;AAS Direct Aspiration. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;SO4;2010;2014;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;NO3;2010;2014;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;CL;2010;2014;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;F;2010;2014;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;NH4;2010;2014;EPA 350.1, 4500-NH3 G;Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th - 21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;P_TL;2010;2014;EPA 365.3, 4500-P I;Block Digest Flow Inject. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;SIO2;2010;2014;EPA 366.0, 4500-SiO2 E;Automated Molybdosilicate. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;CHL_A;2010;2014;EPA 445.0, 10200H;Flourometery. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;PH_LAB;2010;2014;EPA AERP 05;Open, stirred. Handbook of Methods for Acidic Deposition Studies: Laboratory Analysis for Surface Water Chemistry, EPA 600/4-87-026. 
+LTM_ALTM;PH_EQ;2010;2014;EPA AERP 05;278 ppm CO2. Handbook of Methods for Acidic Deposition Studies: Laboratory Analysis for Surface Water Chemistry, EPA 600/4-87-026. 
+LTM_ALTM;ANC;2010;2014;EPA AERP 05;Gran Plot ANC. Manual Titration. Handbook of Methods for Acidic Deposition Studies: Laboratory Analysis for Surface Water Chemistry, EPA 600/4-87-026. 
+LTM_ALTM;AL_IM;2010;2014;McAvoy et al. 1992;Calculation. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;AL_MON;2010;2014;McAvoy et al. 1992;Automated PCV. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;AL_ORG;2010;2014;McAvoy et al. 1992;Automated PCV. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;AL_TD;2010;2014;McAvoy et al. 1992;GFAAS. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;ORGION;2010;2014;Unknown;Unknown
+LTM_ALTM;PH_FLD;2010;2014;Unknown;Unknown
+LTM_ALTM;WTEMP;2010;2014;Unknown;Unknown
+LTM_ALTM;COLOR_TRU;2010;2014;Unknown;Unknown
+LTM_ALTM;DIC;2010;2014;Unknown;Unknown
+LTM_ALTM;DOC;2010;2014;Unknown;Unknown
+LTM_ALTM;COND;2010;2017;EPA 120.1, 2510 B;YSI @ 25C. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;CA;2010;2017;EPA 215.1, 3111 B;"AAS Direct Aspiration. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American
+Water Works Association, and Water Pollution Control Federation, 1992-2005."
+LTM_ALTM;MG;2010;2017;EPA 242.1, 3111 B;AAS Direct Aspiration. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;K;2010;2017;EPA 258.1, 3111 B;AAS Direct Aspiration. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;Inconnu;2010;2017;EPA 273.1, 3111 B;AAS Direct Aspiration. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;NO3;2010;2017;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;F;2010;2017;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;CL;2010;2017;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;SO4;2010;2017;EPA 300.0, 4110 B;Ion Chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;NH4;2010;2017;EPA 350.1, 4500-NH3 G;Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th - 21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005.
+LTM_ALTM;P_TL;2010;2017;EPA 365.3, 4500-P I;Block Digest Flow Inject. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;SIO2;2010;2017;EPA 366.0, 4500-SiO2 E;Automated Molybdosilicate. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;DIC;2010;2017;EPA 415.1, 5310 C;UV/Persulfate Oxidation. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;DOC;2010;2017;EPA 415.1, 5310 C;UV/Persulfate Oxidation. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;CHL_A;2010;2017;EPA 445.0, 10200H;Flourometery. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Standard Methods for the Examination of Water and Wastewater, 18th-21st Editions, American Public Health Association, American Water Works Association, and Water Pollution Control Federation, 1992-2005. 
+LTM_ALTM;PH_LAB;2010;2017;EPA AERP 05;Open, stirred. Handbook of Methods for Acidic Deposition Studies: Laboratory Analysis for Surface Water Chemistry, EPA 600/4-87-026. 
+LTM_ALTM;PH_EQ;2010;2017;EPA AERP 05;278 ppm CO2. Handbook of Methods for Acidic Deposition Studies: Laboratory Analysis for Surface Water Chemistry, EPA 600/4-87-026. 
+LTM_ALTM;ANC;2010;2017;EPA AERP 05;Gran Plot ANC. Manual Titration. Handbook of Methods for Acidic Deposition Studies: Laboratory Analysis for Surface Water Chemistry, EPA 600/4-87-026. 
+LTM_ALTM;AL_MON;2010;2017;McAvoy et al. 1992;Automated PCV. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;AL_ORG;2010;2017;McAvoy et al. 1992;Automated PCV. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;AL_TD;2010;2017;McAvoy et al. 1992;GFAAS. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_ALTM;COLOR_TRU;2010;2017;Unknown;Unknown
+LTM_ALTM;ORGION;2010;2017;Unknown;Unknown
+LTM_ALTM;PH_FLD;2010;2017;Unknown;Unknown
+LTM_ALTM;WTEMP;2010;2017;Unknown;Unknown
+LTM_ME;COLOR_TRU;2010;2011;EPA 110.2;Spectrophotometer, 457.5 nm. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COND;2010;2011;EPA 120.1, EPA 23.0;Wheatstone bridge. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;AL_TD;2010;2011;EPA 200.9;AAS with graphite furnace. Methods for the Determination of Metals in Environmental Samples, EPA 600/4-91/010, 1991, Supplement 1, EPA 600/R-94/111, 1994.
+LTM_ME;SIO2;2010;2011;EPA 22.0, Bran & Luebbe 785-86T;"Autoanalyzer. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987. Bran and Luebbe, 1986.  Ammonium in water and wastewater, method 780-86T; silicates in water and wastewater, method 785-86T.  Technicon Industrial Systems Corp., Elsford, NY."
+LTM_ME;SO4;2010;2011;EPA 300.1;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;CL;2010;2011;EPA 300.1;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;NO3;2010;2011;EPA 300.1;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;DOC;2010;2011;EPA 415.1;High Temp. combustion, NDIR. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;PH_EQ;2010;2011;Hillman et al 1986, EPA 19.0;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;PH_LAB;2010;2011;Hillman et al 1986, EPA 5.0;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;ANC;2010;2011;Hillman et al 1986, EPA 5.0;Gran Titration. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Handbook of Methods for Acid Deposition Studies:  Laboratory Analysis For Surface Water Chemistry, EPA 600/4-87-026, 1987.
+LTM_ME;AL_ORG;2010;2011;Unknown;Unknown
+LTM_ME;CA;2010;2011;Unknown;Ion chromatography.
+LTM_ME;COLOR_APP;2010;2011;Unknown;Unknown
+LTM_ME;DIC;2010;2011;Unknown;Unknown
+LTM_ME;K;2010;2011;Unknown;Ion chromatography.
+LTM_ME;MG;2010;2011;Unknown;Ion chromatography.
+LTM_ME;Inconnu;2010;2011;Unknown;Ion chromatography.
+LTM_ME;N_TD;2010;2011;Unknown;High Temp. combustion, CLD.
+LTM_ME;PH_STVL;2010;2011;Unknown;Unknown
+LTM_ME;P_TL;2010;2011;Unknown;Unknown
+LTM_ME;TURB;2010;2011;Unknown;Unknown
+LTM_ME;WTEMP;2010;2011;Unknown;Unknown
+LTM_ME;CA;2012;2017;AN141;Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by Ion Chromatography Using the IonPac CS16 Column.
+LTM_ME;K;2012;2017;AN141;Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by Ion Chromatography Using the IonPac CS16 Column.
+LTM_ME;MG;2012;2017;AN141;Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by Ion Chromatography Using the IonPac CS16 Column.
+LTM_ME;Inconnu;2012;2017;AN141;Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by Ion Chromatography Using the IonPac CS16 Column.
+LTM_ME;COLOR_APP;2012;2017;EPA 110.2;Hach Color comparator wheel. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COND;2012;2017;EPA 120.1;Electrode. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;AL_TD;2012;2017;EPA 200.7;ICP-AES. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;AL_ORG;2012;2017;EPA 200.7;ICP-AES. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;CL;2012;2017;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;NO3;2012;2017;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;SO4;2012;2017;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;P_TL;2012;2017;EPA 365.4;"Acid persulfate digestion; Molybdate colorimetric. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_ME;SIO2;2012;2017;EPA 370.1;Molybdate colorimetric. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;DOC;2012;2017;EPA 415.1;"High temperature combustion; IR Spectrophotometry. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_ME;DIC;2012;2017;EPA 415.1;"High temperature combustion; IR Spectrophotometry. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_ME;PH_LAB;2012;2017;Hillman et al 1986, EPA 150.1;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;ANC;2012;2017;Hillman et al 1986, EPA 150.1;Electrode, gran titration. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;PH_EQ;2012;2017;Hillman et al 1986, EPA 150.1;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;N_TD;2012;2017;Merriam et al. 1996;"High temperature combustion; Chemi-luminescence detection. Merriam, J., McDowell, W. H. & Currie, W. S. 1996. A high-temperature catalytic oxidation technique for determining total dissolved nitrogen. Soil Science Society of America Journal, 60, 1050-1055."
+LTM_ME;COLOR_TRU;2012;2017;Unknown;Unknown
+LTM_ME;PH_STVL;2012;2017;Unknown;Unknown
+LTM_ME;TURB;2012;2017;Unknown;Unknown
+LTM_ME;WTEMP;2012;2017;Unknown;Unknown
+LTM_ALTM;AL_IM;2015;2017;McAvoy et al. 1992;Calculation. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+LTM_VT;SIO2;2015;2008,43083;APHA , 2005 4500-SiO₂F;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;COND;2015;2008,43083;APHA 2510B;APHA. 2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;PH_STVL;2015;2008,43083;APHA 4500-HB;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;WTEMP;2015;2008,43083;APHA, 1998 Section 2550B;APHA. 1998. Standard methods for the examinatino of water and wastewater, 20th edition. American Public Health Association, American Water Works Association, Water Environment Federation, Washington D.C.
+LTM_VT;COLOR_APP;2015;2008,43083;APHA, 2005 2120B;APHA .2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+LTM_VT;COLOR_TRU;2015;2008,43083;Black and Christman, 1963;Black, A.P. and R.F. Christman. 1963. Characteristics of colored surface waters. Jour. AWWA, June 1963. 
+LTM_VT;ANC;2015;2008,43083;Pfeiffer and Festa, 1980 ;Pfeiffer, M. and P.J. Festa. 1980. Acidity status of lakes in the Adirondack Region of New York in relation to fish resource. NY DEC.
+LTM_VT;DOC;2015;2008,43083;USEPA, 1982. Method 415.2;"Test Method - Organic Carbon, Total (low level) (UV promoted, persulfate oxidation) – Method 415.2. US
+Environmental Protection Agency, Environmental Monitoring and Support Laboratory (Research and
+Development), Cincinnati OH, Dec. 1982."
+LTM_VT;PH_FLD;2015;2008,43083;USEPA, 1983 Method 150.1;USEPA. 1983. Methods for chemical analysis of water and wastes. EPA-600/4-79-020.
+LTM_VT;AL_MON;2015;2008,43083;USEPA, 1987 Section 14.0, Peden et al, 1989;"USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water
+chemistry . EPA-600/4-87-026. Peden, M.E., Amankwah, S.A., Keller B.J., Krug, E.C. and Jacqueline M. Peden, 1989. Evaluation of aluminum
+speciation using synthetic and natural samples – final report: Champaign, Ill., Illinois State Water Survey Contract
+Report 463."
+LTM_VT;AL_ORG;2015;2008,43083;USEPA, 1987 Section 14.0, Peden et al, 1989;"USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water
+chemistry . EPA-600/4-87-026. Peden, M.E., Amankwah, S.A., Keller B.J., Krug, E.C. and Jacqueline M. Peden, 1989. Evaluation of aluminum
+speciation using synthetic and natural samples – final report: Champaign, Ill., Illinois State Water Survey Contract
+Report 463."
+LTM_VT;SECCHI;2015;2008,43083;USEPA, 1989 Method 11.0;USEPA. 1989. Handbook of methods for acid deposition studies. Field methods for surface water studies. EPA-600/4-89-020.
+LTM_VT;SO4;2015;2008,43083;USEPA, 1993 Method 300.0;USEPA. 1993. Methods for the determination of inorganic substances in envrionmental samples. A/600/R-93/100
+LTM_VT;CL;2015;2008,43083;USEPA, 1993 Method 300.0;USEPA. 1993. Methods for the determination of inorganic substances in envrionmental samples. A/600/R-93/100
+LTM_VT;NO3;2015;2008,43083;USEPA, 1993 Method 300.0;USEPA. 1993. Methods for the determination of inorganic substances in envrionmental samples. A/600/R-93/100
+LTM_VT;AL_TL;2015;2008,43083;USEPA, 2007 Method 6010C;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;CA;2015;2008,43083;USEPA, 2007 Method 6020A;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;MG;2015;2008,43083;USEPA, 2007 Method 6020A;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;Inconnu;2015;2008,43083;USEPA, 2007 Method 6020A;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;K;2015;2008,43083;USEPA, 2007 Method 6020A;USEPA. 2007. Test Methods for Evaluating Solid Wastes, (SW846).
+LTM_VT;PH_EQ;2015;2008,43083;USEPA. 1987 Section 5.5.3;USEPA. 1987. Handbook of methods for acid depostion studies. Laboratory analyses for surface waters chemistry. EPA-600/4-87-026.
+LTM_VT;AL_TD;2015;2008,43083;Unknown;Unknown
+LTM_VT;P_TL;2015;2008,43083;Unknown;Unknown
+VTSSS;SIO2;2015;2008,43083;APHA 2005;Method 4500. APHA. 2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+VTSSS;COND;2015;2008,43083;APHA 2005;APHA. 2005. Standard Methods for the examination of water and wastewater, 21st Ed. American Public Health Association, American Waterworks Association, Water Environment Federation, Washington, D.C.
+VTSSS;PH_LAB;2015;2008,43083;EPA 1987;USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. 
+VTSSS;ANC;2015;2008,43083;EPA 1987, Gran 1952;USEPA. 1987. Handbook of methods for acid deposition studies. Laboratory analyses for surface water chemistry . EPA-600/4-87-026. Gran, G. 1952 Determination of the equivalence point in potentiometric titrations. Part 2. Analyst 77:661-671.
+VTSSS;NO3;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;NH4;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;CA;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;CL;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;K;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;SO4;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;MG;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;Inconnu;2015;2008,43083;EPA 300.1;Dionex ICS 3000. USEPA. 1997. Methods for the Determination of Organic and Inorganic Compounds in Drinking Water, Volume 1 (EPA/815-R-00-014).
+VTSSS;DOC;2015;2008,43083;EPA 415.3 ;EPA/600/R-05-055. Determination of Total Organic Carbon and Specific UV Absorbance at 254nm in Source Water and Drinking Water.
+VTSSS;AL_MON;2015;2008,43083;McAvoy et al. 1992;Pyrocatechol violet method. McAvoy, D.C., Santore, R.C., Shosa, J.D. and Driscoll, C.T. (1992) A comparison between pyrocatechol violet and 8- hydroxyquinoline procedures for determining aluminum fractions. Soil Sci. Soc. Am, J. 56: 449-455.
+VTSSS;AL_ORG;2015;2008,43083;Unknown;Unknown
+VTSSS;WTEMP;2015;2008,43083;Unknown;Unknown
+LTM_ALTM;PH_LAB;2018;2008,43083;EPA 1987 sec 20;280ppm CO2, unstirred.
+LTM_ALTM;COND;2018;2008,43083;EPA 1987 sec 23;Electrometric.
+LTM_ALTM;ANC;2018;2008,43083;EPA 1987 sec 5.0;Automated Gran titration.
+LTM_ALTM;PH_EQ;2018;2008,43083;EPA 1987 sec 5.0;Open, unstirred.
+LTM_ALTM;Inconnu;2018;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_ALTM;MG;2018;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_ALTM;K;2018;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_ALTM;CA;2018;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_ALTM;AL_TD;2018;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_ALTM;SIO2;2018;2008,43083;EPA 200.7 rev 4.4;ICP-AES.
+LTM_ALTM;CL;2018;2008,43083;EPA 300.0 rev 2.1;Ion Chromatography. 
+LTM_ALTM;NO3;2018;2008,43083;EPA 300.0 rev 2.1;Ion Chromatography. 
+LTM_ALTM;SO4;2018;2008,43083;EPA 300.0 rev 2.1;Ion Chromatography. 
+LTM_ALTM;NH4;2018;2008,43083;EPA 350.1 rev 2.0;ICP-AES.
+LTM_ALTM;DIC;2018;2008,43083;EPA 415.2;UV/Oxidation.
+LTM_ALTM;DOC;2018;2008,43083;EPA 415.2;UV/Persulfate Oxidation.
+LTM_ALTM;AL_MON;2018;2008,43083;Lachat Instruments 10-113-33-1-A;Colorimetric, PVC.
+LTM_ALTM;AL_ORG;2018;2008,43083;Lachat Instruments 10-113-33-1-B;Colorimetric, PVC.
+LTM_ALTM;AL_IM;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;CHL_A;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;COLOR_TRU;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;F;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;ORGION;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;PH_FLD;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;P_TL;2018;2008,43083;Unknown;Unknown
+LTM_ALTM;WTEMP;2018;2008,43083;Unknown;Unknown
+LTM_ME;N_TD;2018;2008,43083;ASTM D5176;"High temperature combustion; Chemi-luminescence detection. Merriam, J., McDowell, W. H. & Currie, W. S. 1996. A high-temperature catalytic oxidation technique for determining total dissolved nitrogen. Soil Science Society of America Journal, 60, 1050-1055"
+LTM_ME;MG;2018;2008,43083;ASTM D6919-09;"Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by
+Ion Chromatography Using the IonPac CS16 Column."
+LTM_ME;CA;2018;2008,43083;ASTM D6919-09;"Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by
+Ion Chromatography Using the IonPac CS16 Column."
+LTM_ME;Inconnu;2018;2008,43083;ASTM D6919-09;"Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by
+Ion Chromatography Using the IonPac CS16 Column."
+LTM_ME;K;2018;2008,43083;ASTM D6919-09;"Ion chromatography. Dionex Application Note 141. Determination of Inorganic Cations and Ammonium in Environmental Waters by
+Ion Chromatography Using the IonPac CS16 Column."
+LTM_ME;COLOR_APP;2018;2008,43083;EPA 110.2;Hach Color comparator wheel. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COND;2018;2008,43083;EPA 120.1;Electrode. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;AL_ORG;2018;2008,43083;EPA 200.7;ICP-AES. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;AL_TD;2018;2008,43083;EPA 200.7;ICP-AES. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;SO4;2018;2008,43083;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;NO3;2018;2008,43083;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;CL;2018;2008,43083;EPA 300.0;Ion chromatography. Methods for the Determination of Inorganic Substances in Environmental Samples, EPA 600/R-93-100, 1993.
+LTM_ME;P_TL;2018;2008,43083;EPA 365.4;"In-line UV digestion; Molybdate colorimetric. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_ME;SIO2;2018;2008,43083;EPA 370.1;Molybdate colorimetric. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;DOC;2018;2008,43083;EPA 415.1;"High temperature combustion; IR Spectrophotometry. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_ME;DIC;2018;2008,43083;EPA 415.1;"High temperature combustion; IR Spectrophotometry. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983."
+LTM_ME;PH_LAB;2018;2008,43083;Hillman et al 1986, EPA 150.1;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;PH_EQ;2018;2008,43083;Hillman et al 1986, EPA 150.1;Electrode. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;ANC;2018;2008,43083;Hillman et al 1986, EPA 150.1;Electrode, gran titration. Hillman,D.C., J. Potter, and S. Simon, 1986.  Analytical methods for the National Surface Water Survey, Eastern Lake Survey.  EPA/600/4-86/009, EPA Las Vegas. Methods for Chemical Analysis of Water and Wastes, EPA 600/4-79-020, 1979, Revised 1983.
+LTM_ME;COLOR_TRU;2018;2008,43083;Unknown;Unknown
+LTM_ME;PH_STVL;2018;2008,43083;Unknown;Unknown
+LTM_ME;TURB;2018;2008,43083;Unknown;Unknown
+LTM_ME;WTEMP;2018;2008,43083;Unknown;Unknown
