@@ -62,6 +62,18 @@ pip install kafka-python pandas pyspark duckdb
    ```bash
    python producer1.py
    ```
+## Commandes Spark
+
+Pour exécuter un traitement spécifique avec Spark, utilisez la commande suivante en remplaçant `<script_name>` par le nom du fichier à exécuter :
+
+```bash
+spark-submit \\
+  --master "local[*]" \\
+  --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 \\
+  --jars /Users/monkeydziyech/Desktop/Projet-data-Integration/scripts/duckdb_jdbc-1.1.3.jar \\
+  --driver-java-options "-Dlog4j.configuration=file:/path/to/log4j.properties" \\
+  <script_name>
+
 
 ### Étape 2 : Consommation et traitement des données
 1. Configurez les paramètres Kafka et Spark dans le script `datastream.py`.
