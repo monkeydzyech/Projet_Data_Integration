@@ -63,7 +63,9 @@ pip install kafka-python pandas pyspark duckdb
    python producer1.py
    ```
 ## Commandes Spark
-
+### Étape 2 : Consommation et traitement des données
+1. Configurez les paramètres Kafka et Spark dans le script `datastream.py`.
+2. Lancez le pipeline de consommation et de traitement des données :
 Pour exécuter un traitement spécifique avec Spark, utilisez la commande suivante en remplaçant `<script_name>` par le nom du fichier à exécuter :
 
 ```bash
@@ -75,12 +77,8 @@ spark-submit \\
   <script_name>
 
 
-### Étape 2 : Consommation et traitement des données
-1. Configurez les paramètres Kafka et Spark dans le script `datastream.py`.
-2. Lancez le pipeline de consommation et de traitement des données :
-   ```bash
-   python datastream.py
-   ```
+
+   
 
 ### Étape 3 : Chargement des fichiers statiques depuis HDFS
 1. Placez les fichiers nettoyés dans HDFS (`Methods_Cleaned.csv` et `Site_Information_Cleaned.csv`).
@@ -126,6 +124,26 @@ Les résultats sont stockés dans :
 - **Snapshots locaux** : Répertoire `snapshots/`.
 
 ---
+### Table `metrics_table`
+
+| YEAR | PROGRAM_ID | SITE_ID | AVG_PH      | AVG_SO4    | AVG_NO3     | TOTAL_SAMPLES |
+|------|------------|---------|-------------|------------|-------------|---------------|
+| 2020 | Program_1  | Site_1  | 6.08        | 49.77      | 13.73       | 1             |
+| 2020 | Program_2  | Site_2  | 5.54        | 47.66      | 10.36       | 1             |
+| 2020 | Program_3  | Site_3  | 5.04        | 46.67      | 22.49       | 1             |
+| 2020 | Program_4  | Site_4  | 6.57        | 45.65      | 9.29        | 1             |
+| 1991 | Program_5  | Site_5  | 5.81        | 126.8      | 38.2        | 1             |
+| 2020 | Program_6  | Site_6  | 6.14        | 21.36      | 0.00        | 1             |
+| 2024 | Program_7  | Site_7  | NULL        | NULL       | NULL        | 1             |
+
+* **YEAR** : Année de l'échantillon.
+* **PROGRAM_ID** : Identifiant du programme lié aux échantillons.
+* **SITE_ID** : Identifiant unique du site.
+* **AVG_PH** : Moyenne du pH mesurée sur le site cette année-là.
+* **AVG_SO4** : Moyenne des concentrations de sulfates (SO4) mesurées.
+* **AVG_NO3** : Moyenne des concentrations de nitrates (NO3) mesurées.
+* **TOTAL_SAMPLES** : Nombre total d'échantillons collectés sur le site pour cette année.
+
 
 
 
