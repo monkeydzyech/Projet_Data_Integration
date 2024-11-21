@@ -56,9 +56,21 @@ pip install kafka-python pandas pyspark duckdb
 ## Instructions d'exécution
 
 ### Étape 1 : Production des données avec Kafka
-1. Lancez le serveur Kafka.
-2. Configurez le chemin du fichier de données nettoyé dans `data_file` (par défaut : `LTM_Data_Cleaned_final.csv`).
-3. Exécutez le script du producteur Kafka :
+1. Lancez le serveur Kafka et Zookeper.
+```bash
+   bin/zookeeper-server-start.sh config/zookeeper.properties
+   ```
+```bash
+   bin/kafka-server-start.sh config/server.properties
+   ```
+2.Creer un topic
+```bash
+bin/kafka-topics.sh --create --topic <topic_name> --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+```
+
+
+3. Configurez le chemin du fichier de données nettoyé dans `data_file` (par défaut : `LTM_Data_Cleaned_final.csv`).
+4. Exécutez le script du producteur Kafka :
    ```bash
    python producer1.py
    ```
@@ -75,6 +87,7 @@ spark-submit \\
   --jars /Users/monkeydziyech/Desktop/Projet-data-Integration/scripts/duckdb_jdbc-1.1.3.jar \\
   --driver-java-options "-Dlog4j.configuration=file:/path/to/log4j.properties" \\
   <script_name>
+  ```
 
 
 
@@ -82,7 +95,11 @@ spark-submit \\
 
 ### Étape 3 : Chargement des fichiers statiques depuis HDFS
 1. Placez les fichiers nettoyés dans HDFS (`Methods_Cleaned.csv` et `Site_Information_Cleaned.csv`).
-2. Exécutez le script `HDFSToDuckDB.py` pour charger les données dans DuckDB.
+ ```bash
+hdfs dfs -put <local_file_path> <hdfs_destination_path>
+   ```
+
+3. Exécutez le script `HDFSToDuckDB.py` pour charger les données dans DuckDB.
 
 ### Étape 4 : Jointure et calcul des métriques
 1. Lancez le script principal `table_joining` pour effectuer les étapes suivantes :
@@ -93,7 +110,7 @@ spark-submit \\
 
 ---
 
-## Structure des données
+## Structure des données Exemple
 ### Table `ltm_table`
 | Colonne          | Type       | Description                      |
 |-------------------|------------|----------------------------------|
@@ -124,7 +141,7 @@ Les résultats sont stockés dans :
 - **Snapshots locaux** : Répertoire `snapshots/`.
 
 ---
-### Table `metrics_table`
+### Table `metrics_table` Exemple
 
 | YEAR | PROGRAM_ID | SITE_ID | AVG_PH      | AVG_SO4    | AVG_NO3     | TOTAL_SAMPLES |
 |------|------------|---------|-------------|------------|-------------|---------------|
