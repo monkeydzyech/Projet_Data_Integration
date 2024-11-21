@@ -19,7 +19,6 @@ topic_name = 'water_data_stream'
 # Envoi des données par blocs de 10 lignes toutes les 10 secondes
 for i in range(0, len(data), 10):
     chunk = data.iloc[i:i+10].to_dict(orient='records')  # Convertir le bloc de 10 lignes en liste de dictionnaires
-    #TODo changer la frequence
     # Envoi de chaque message Kafka par bloc (10 messages sous forme JSON ligne par ligne dans un bloc)
     for record in chunk:
         producer.send(topic_name, record)

@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Spécifier le chemin de votre fichier CSV
+
 data_file = '/Users/monkeydziyech/Desktop/Projet-data-Integration/data/cleaned/LTM_Data_Cleaned.csv'
 
 # Lire le fichier CSV avec un séparateur ';'
