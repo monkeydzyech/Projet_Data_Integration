@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Build Docker image
+      - name: Buil
+      d Docker image
         run: docker build -t spark-pipeline .
 
       - name: Run tests
