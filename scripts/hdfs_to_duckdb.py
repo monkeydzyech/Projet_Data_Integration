@@ -18,7 +18,8 @@ logger.info("SparkSession initialisée.")
 # Lecture des fichiers depuis HDFS avec le bon délimiteur ";"
 logger.info("Lecture des fichiers depuis HDFS...")
 methods_df = spark.read.option("delimiter", ";").csv(
-    "hdfs://localhost:9000/user/hadoop/project/Projet-data-Integration/static/Methods_Cleaned.csv",
+    "hdfs://localhost:9000/data/static/methods/Methods_Cleaned.csv",
+
     header=True,
     inferSchema=True
 )
@@ -26,7 +27,8 @@ methods_df = methods_df.withColumn("end_date", col("end_year").substr(1, 4))
 
 
 site_info_df = spark.read.option("delimiter", ";").csv(
-    "hdfs://localhost:9000/user/hadoop/project/Projet-data-Integration/static/Site_Information_Cleaned.csv",
+    "hdfs://localhost:9000/data/static/sites/Site_Information_Cleaned.csv",
+
     header=True,
     inferSchema=True
 )

@@ -3,7 +3,7 @@ from pyspark.sql.functions import from_json, col, to_timestamp
 from pyspark.sql.types import StructType, StructField, StringType, TimestampType
 import logging
 import os
-
+import time
 
 
 # Configuration des logs
@@ -102,7 +102,10 @@ def create_snapshot(batch_df, batch_id):
 # Fonction pour écrire un batch dans DuckDB
 def write_batch_to_duckdb(batch_df, batch_id):
     logger.info(f"Traitement du batch {batch_id}...")
+    start_time = time.time()
     try:
+        num_rows = batch_df.count()
+        logger.info(f"Nombre de lignes dans le batch {batch_id} : {num_rows}")
         # Connexion JDBC à DuckDB
         jdbc_url = "jdbc:duckdb:/Users/monkeydziyech/Desktop/Projet-data-Integration/scripts/mydatabase.db"
 
@@ -140,6 +143,9 @@ def write_batch_to_duckdb(batch_df, batch_id):
 
     except Exception as e:
         logger.error(f"Erreur lors de l'écriture du batch {batch_id} : {e}")
+    end_time = time.time()
+    logger.info(f"Durée de traitement du batch {batch_id} : {end_time - start_time:.2f} secondes")  # FIN DU MONITORING
+
 
 query = parsed_df.writeStream \
     .foreachBatch(write_batch_to_duckdb) \

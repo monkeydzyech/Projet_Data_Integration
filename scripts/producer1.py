@@ -14,19 +14,19 @@ data_file = '/Users/monkeydziyech/Desktop/Projet-data-Integration/data/cleaned/L
 data = pd.read_csv(data_file)
 
 # Nom du topic Kafka
-topic_name = 'water_data_stream'
+topic_name = 'stream_water'
 
 # Envoi des données par blocs de 10 lignes toutes les 10 secondes
-for i in range(0, len(data), 10):
-    chunk = data.iloc[i:i+10].to_dict(orient='records')  # Convertir le bloc de 10 lignes en liste de dictionnaires
+for i in range(0, len(data), 5000):
+    chunk = data.iloc[i:i+5000].to_dict(orient='records')  # Convertir le bloc de 10 lignes en liste de dictionnaires
     # Envoi de chaque message Kafka par bloc (10 messages sous forme JSON ligne par ligne dans un bloc)
     for record in chunk:
         producer.send(topic_name, record)
     
-    print(f"Envoyé le batch {i//10 + 1} au topic {topic_name}")
+    print(f"Envoyé le batch {i//5000 + 1} au topic {topic_name}")
     
     # Pause de 10 secondes avant d'envoyer le prochain bloc
-    time.sleep(10)
+    time.sleep(1)
 
 # Fermer le producteur
 producer.close()

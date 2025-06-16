@@ -1,0 +1,2 @@
+[2024-11-25 14:20:28,008] INFO Expiring session 0x10007a7a7fd0001, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2024-11-25 14:20:33,568] INFO Invalid session 0x10007a7a7fd0001 for client /127.0.0.1:52838, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
