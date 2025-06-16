@@ -62,7 +62,7 @@ logger.info("Lecture des données depuis Kafka...")
 kafka_stream = spark.readStream \
     .format("kafka") \
     .option("kafka.bootstrap.servers", "localhost:9092") \
-    .option("subscribe", "water_data_stream") \
+    .option("subscribe", "stream_water") \
     .option("startingOffsets", "earliest") \
     .load()
 
